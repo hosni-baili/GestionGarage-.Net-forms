@@ -1,0 +1,6 @@
+C:\Users\hosni\source\repos\GestionGarage\DLL\bin\Debug\DLL.dll
+C:\Users\hosni\source\repos\GestionGarage\DLL\bin\Debug\DLL.pdb
+C:\Users\hosni\source\repos\GestionGarage\DLL\obj\Debug\DLL.csproj.AssemblyReference.cache
+C:\Users\hosni\source\repos\GestionGarage\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\hosni\source\repos\GestionGarage\DLL\obj\Debug\DLL.dll
+C:\Users\hosni\source\repos\GestionGarage\DLL\obj\Debug\DLL.pdb
